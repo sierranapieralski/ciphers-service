@@ -124,4 +124,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-ALLOWED_HOSTS = ['localhost', '0.0.0.0', 'ciphers-service-sierranapieralski.onrender.com']
+ALLOWED_HOSTS = ['localhost', '0.0.0.0', 'ciphers-service-8ikc.onrender.com']
